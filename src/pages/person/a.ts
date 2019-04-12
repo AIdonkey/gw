@@ -1,0 +1,3 @@
+interface ab {
+    nice: string
+}
